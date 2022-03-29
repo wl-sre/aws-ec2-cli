@@ -38,3 +38,13 @@
 ### 2 具体使用方式
 ```shell
 wlown@debian:~/golang/aws-ec2-cli$ ./aws-ec2-cli  -key '1111111111111' -secret '222222222222'
+10.80.0.124          nx-homepage-app00
+
+10.81.200.225        nx-control-app01
+
+10.81.0.29           nx-ldap-app01
+
+10.81.200.15         nx-vpn-app01 
+
+10.80.200.252        nx-nat-1a   
+```
